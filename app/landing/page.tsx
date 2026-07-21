@@ -22,7 +22,7 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-primary/65" />
         <div className="relative z-10 mx-auto max-w-2xl px-6 text-center text-primary-foreground">
           <p className="animate-fade-up font-sans text-xs uppercase tracking-luxe text-gold delay-100">
-            Together with their families
+            Junto a sus familias
           </p>
           <h1 className="animate-fade-up mt-6 font-heading text-6xl leading-none text-balance sm:text-7xl md:text-8xl delay-200">
             {wedding.brideName}

@@ -112,7 +112,7 @@ export function Invitation({ guest }: { guest: Guest }) {
           className="relative z-10 flex flex-col items-center gap-6 text-primary-foreground"
         >
           <p className="animate-fade-up font-sans text-xs uppercase tracking-luxe text-gold delay-100">
-            Together with their families
+            Junto a sus familias
           </p>
 
           <Ornament className="text-secondary" />

@@ -10,7 +10,7 @@ export const wedding = {
   dateLong: "Sábado, 1 de Agosto de 2026",
   dateShort: "Agosto 1, 2026",
   shortDate: "01 . 08 . 2026",
-  time: "Five o'clock in the afternoon",
+  time: "De las cinco de la tarde en adelante",
   ceremonyVenue: "Aloft Hotel - Rooftop",
   ceremonyAddress: "Barrio Río de Piedras, 18 Avenida S, 6 y 7 Calle S, 21104 San Pedro Sula, Honduras",
   // Combined venue label used on the invitation
