@@ -261,7 +261,7 @@ export function Invitation({ guest }: { guest: Guest }) {
                             type="tel"
                             inputMode="tel"
                             autoComplete="tel"
-                            placeholder="ej. +504 1234 5678"
+                            placeholder="ej. 12345678"
                             value={phone}
                             onChange={(e) => setPhone(e.target.value)}
                             required
